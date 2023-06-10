@@ -1,0 +1,15 @@
+C:\Users\Yohannah\Desktop\Projects\Udemy - Algoritmos e Lógica de Programação\Códigos em C#\VisualStudio2022\soma_vetor\soma_vetor\obj\Debug\net6.0\soma_vetor.csproj.AssemblyReference.cache
+C:\Users\Yohannah\Desktop\Projects\Udemy - Algoritmos e Lógica de Programação\Códigos em C#\VisualStudio2022\soma_vetor\soma_vetor\obj\Debug\net6.0\soma_vetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yohannah\Desktop\Projects\Udemy - Algoritmos e Lógica de Programação\Códigos em C#\VisualStudio2022\soma_vetor\soma_vetor\obj\Debug\net6.0\soma_vetor.AssemblyInfoInputs.cache
+C:\Users\Yohannah\Desktop\Projects\Udemy - Algoritmos e Lógica de Programação\Códigos em C#\VisualStudio2022\soma_vetor\soma_vetor\obj\Debug\net6.0\soma_vetor.AssemblyInfo.cs
+C:\Users\Yohannah\Desktop\Projects\Udemy - Algoritmos e Lógica de Programação\Códigos em C#\VisualStudio2022\soma_vetor\soma_vetor\obj\Debug\net6.0\soma_vetor.csproj.CoreCompileInputs.cache
+C:\Users\Yohannah\Desktop\Projects\Udemy - Algoritmos e Lógica de Programação\Códigos em C#\VisualStudio2022\soma_vetor\soma_vetor\bin\Debug\net6.0\soma_vetor.exe
+C:\Users\Yohannah\Desktop\Projects\Udemy - Algoritmos e Lógica de Programação\Códigos em C#\VisualStudio2022\soma_vetor\soma_vetor\bin\Debug\net6.0\soma_vetor.deps.json
+C:\Users\Yohannah\Desktop\Projects\Udemy - Algoritmos e Lógica de Programação\Códigos em C#\VisualStudio2022\soma_vetor\soma_vetor\bin\Debug\net6.0\soma_vetor.runtimeconfig.json
+C:\Users\Yohannah\Desktop\Projects\Udemy - Algoritmos e Lógica de Programação\Códigos em C#\VisualStudio2022\soma_vetor\soma_vetor\bin\Debug\net6.0\soma_vetor.dll
+C:\Users\Yohannah\Desktop\Projects\Udemy - Algoritmos e Lógica de Programação\Códigos em C#\VisualStudio2022\soma_vetor\soma_vetor\bin\Debug\net6.0\soma_vetor.pdb
+C:\Users\Yohannah\Desktop\Projects\Udemy - Algoritmos e Lógica de Programação\Códigos em C#\VisualStudio2022\soma_vetor\soma_vetor\obj\Debug\net6.0\soma_vetor.dll
+C:\Users\Yohannah\Desktop\Projects\Udemy - Algoritmos e Lógica de Programação\Códigos em C#\VisualStudio2022\soma_vetor\soma_vetor\obj\Debug\net6.0\refint\soma_vetor.dll
+C:\Users\Yohannah\Desktop\Projects\Udemy - Algoritmos e Lógica de Programação\Códigos em C#\VisualStudio2022\soma_vetor\soma_vetor\obj\Debug\net6.0\soma_vetor.pdb
+C:\Users\Yohannah\Desktop\Projects\Udemy - Algoritmos e Lógica de Programação\Códigos em C#\VisualStudio2022\soma_vetor\soma_vetor\obj\Debug\net6.0\soma_vetor.genruntimeconfig.cache
+C:\Users\Yohannah\Desktop\Projects\Udemy - Algoritmos e Lógica de Programação\Códigos em C#\VisualStudio2022\soma_vetor\soma_vetor\obj\Debug\net6.0\ref\soma_vetor.dll
